@@ -7,6 +7,7 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 ![About](/assets/img/about/about.JPG "つしま")
+<p>My drunk philosophy</p>
 <p>I am a fish, swimming freely in the ocean. I journey through mountains and rivers,<br>
 all for the sake of a beautiful dream.</p>
 <p>我是一条鱼，一条在海洋里自由自在的鱼。<br>
