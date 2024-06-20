@@ -428,8 +428,8 @@ D只能给我带来烦恼。
 同时，以后要学会开玩笑，让生活变的轻松有趣。
 
 ## 暑假
-![POST4](/assets/img/post/post-4-1.JPG "HK1")
-![POST4](/assets/img/post/post-4-2.JPG "HK2")
+![POST4](/assets/img/post/post-4-1.jpg "HK1")
+![POST4](/assets/img/post/post-4-2.jpg "HK2")
 2018-07-23 20:18:33`<br>
 带两个小朋友过暑假
 
@@ -438,12 +438,12 @@ D只能给我带来烦恼。
 天风浪浪，海山苍苍。
 
 作为一个没有啥艺术细菌的我，还是被这些画中的气势感染到了。
-![POST4](/assets/img/post/post-4-3.JPG "许钦松1")
-![POST4](/assets/img/post/post-4-4.JPG "许钦松2")
-![POST4](/assets/img/post/post-4-5.JPG "许钦松3")
-![POST4](/assets/img/post/post-4-6.JPG "许钦松4")
-![POST4](/assets/img/post/post-4-7.JPG "许钦松5")
-![POST4](/assets/img/post/post-4-8.JPG "许钦松6")
+![POST4](/assets/img/post/post-4-3.jpg "许钦松1")
+![POST4](/assets/img/post/post-4-4.jpg "许钦松2")
+![POST4](/assets/img/post/post-4-5.jpg "许钦松3")
+![POST4](/assets/img/post/post-4-6.jpg "许钦松4")
+![POST4](/assets/img/post/post-4-7.jpg "许钦松5")
+![POST4](/assets/img/post/post-4-8.jpg "许钦松6")
 
 ## 梦境
 `2018-07-15 08:00:21`<br>
