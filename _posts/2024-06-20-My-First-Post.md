@@ -1,6 +1,7 @@
 ---
 categories: [Blogging, Personal]
 tags: [writing]
+pin: true
 image:
   path: /assets/img/post/post-1.jpg
 ---
